@@ -29,6 +29,15 @@ def clean_text_robust(text):
     #Remove specific SEC artifacts
     #Removes "Table of Contents", "Page X", and repeated underscores often used in tables
     text = re.sub(r'(Table of Contents|Page \d+|_+)', ' ', text, flags=re.IGNORECASE)
+
+    #Remove cross-reference boilerplate (see Note X, see Item Y, etc.)
+    #These phrases are administrative noise and don't contain substantive facts
+    text = re.sub(r'\b[Ss]ee (Note|Item|Part|Section) [0-9A-Z\.]+[,\.]?', ' ', text)
+    text = re.sub(r'[Ff]or (further )?information,? see .*?[.;]', ' ', text)
+    
+    #Remove isolated page numbers (standalone 1-3 digit numbers, often from PDF artifacts)
+    # Removes patterns like "49 •", " 50 ", "49." but keeps years like "2024"
+    text = re.sub(r'(?<!\d)\s\d{1,3}(?:\s+•|\s+$|\s+[A-Z])', ' ', text)
     
     #Normalize Whitespace (turn newlines and tabs into single spaces)
     text = re.sub(r'\s+', ' ', text).strip()

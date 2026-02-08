@@ -44,14 +44,19 @@ for ticker in tickers:
             print(f"  [!] Could not parse 10-K object for {ticker}")
             continue
         #Extract sections of interest 
+        business = k10["Item 1"]
         risk_factors = k10["Item 1A"] 
         mda = k10["Item 7"]
         
         #Define file names 
         date_str = str(filing.filing_date) 
         filename_base = f"{ticker}_{date_str}"
+        biz_path = os.path.join(output_dir, f"{filename_base}_Business.txt")
         rf_path = os.path.join(output_dir, f"{filename_base}_RiskFactors.txt")
         mda_path = os.path.join(output_dir, f"{filename_base}_MDA.txt")
+        #Save Business Description
+        with open(biz_path, "w", encoding="utf-8") as f:
+            f.write(business if business else "SECTION NOT FOUND")
         #Save Risk Factors
         with open(rf_path, "w", encoding="utf-8") as f:
             f.write(risk_factors if risk_factors else "SECTION NOT FOUND")
@@ -63,9 +68,11 @@ for ticker in tickers:
         dataset_records.append({
             "ticker": ticker,
             "filing_date": date_str,
-            "accession_number": filing.accession_number, 
+            "accession_number": filing.accession_number,
+            "business_file": biz_path,
             "risk_factors_file": rf_path,
             "mda_file": mda_path,
+            "has_business": bool(business),
             "has_risk_factors": bool(risk_factors),
             "has_mda": bool(mda)
         })
