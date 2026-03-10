@@ -1,0 +1,1052 @@
+[
+    {
+        "id": "CEG_Business_134",
+        "triplets": {
+            "supported": "Six of the twelve stations we operate and STP have been deemed compliant with the 316(b) rule using existing technology.",
+            "refuted": {
+                "rationale": "The text states that six stations have been deemed compliant, not eight.",
+                "statement": "Eight of the twelve stations we operate and STP have been deemed compliant with the 316(b) rule using existing technology."
+            },
+            "unverifiable": {
+                "rationale": "There is no mention of a federal grant for compliance with the 316(b) rule.",
+                "statement": "We have received a federal grant to assist with compliance for the remaining six nuclear stations."
+            }
+        }
+    },
+    {
+        "id": "ETR_MDA_2873",
+        "triplets": {
+            "supported": "Entergy Mississippi requires capital resources for construction and other capital investments, debt maturities or retirements, working capital purposes, including the financing of fuel and purchased power costs, and distributions and interest payments.",
+            "refuted": {
+                "rationale": "The statement changes the total planned construction and capital investment for 2026 from '$2,105 million' to '$2,205 million', which is incorrect.",
+                "statement": "Entergy Mississippi's total planned construction and capital investment for 2026 is $2,205 million."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent project 'Green River Solar', which is not mentioned in the text.",
+                "statement": "Entergy Mississippi's planned capital investment includes the Green River Solar project to enhance renewable energy capacity."
+            }
+        }
+    },
+    {
+        "id": "ES_MDA_359",
+        "triplets": {
+            "supported": "Included in transmission costs are charges that recover the cost of transporting electricity over high-voltage lines from generation facilities to substations.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the total variance for CL&P as $25.8 million instead of $(21.1) million.",
+                "statement": "The total variance for CL&P in Purchased Power and Transmission expense in 2025, as compared to 2024, is $25.8 million."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent collaboration with a renewable energy think tank which is not mentioned in the text.",
+                "statement": "The company is collaborating with a renewable energy think tank to develop innovative energy solutions."
+            }
+        }
+    },
+    {
+        "id": "VLO_MDA_50",
+        "triplets": {
+            "supported": "Renewable Diesel margin is defined as Renewable Diesel segment operating income excluding operating expenses (excluding depreciation and amortization expense) and depreciation and amortization expense.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the Renewable Diesel operating income for 2024 as $500 instead of $507, which is a critical numerical error.",
+                "statement": "Reconciliation of Renewable Diesel operating income to Renewable Diesel margin shows Renewable Diesel operating income as $500 for 2024."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for renewable diesel production, which is not mentioned in the text.",
+                "statement": "The Renewable Diesel segment received a federal grant to support its production, which is reflected in the financial results."
+            }
+        }
+    },
+    {
+        "id": "ETR_MDA_472",
+        "triplets": {
+            "supported": "The final rules require disclosure of Scope 1 and/or Scope 2 greenhouse gas emissions on a phased-in basis by certain larger registrants when those emissions are material.",
+            "refuted": {
+                "rationale": "The statement incorrectly claims that the rules require immediate disclosure, rather than phased-in disclosure.",
+                "statement": "The final rules require immediate disclosure of Scope 1 and/or Scope 2 greenhouse gas emissions by certain larger registrants when those emissions are material."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for compliance, which is not mentioned in the text.",
+                "statement": "The final rules include a federal grant for compliance with the disclosure of Scope 1 and/or Scope 2 greenhouse gas emissions."
+            }
+        }
+    },
+    {
+        "id": "PEG_Business_17",
+        "triplets": {
+            "supported": "A significant increase in load is anticipated due to the increasing adoption of EVs, the expansion of data centers and other large users in PEG's area.",
+            "refuted": {
+                "rationale": "The statement changes the reason for the increase in load from 'increasing adoption of EVs' to 'decreasing adoption of EVs'.",
+                "statement": "A significant increase in load is anticipated due to the decreasing adoption of EVs, the expansion of data centers and other large users in PEG's area."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom fact about a federal grant for EV infrastructure, which is not mentioned in the text.",
+                "statement": "PEG received a federal grant for EV infrastructure, which will significantly increase the load due to the expansion of data centers and other large users in their area."
+            }
+        }
+    },
+    {
+        "id": "PPL_Business_77",
+        "triplets": {
+            "supported": "In March 2023, the EPA released a final Federal Implementation Plan under the Good Neighbor provisions of the Clean Air Act providing for significant additional nitrogen oxide emission reductions for compliance with the revised 2015 ozone NAAQS.",
+            "refuted": {
+                "rationale": "The original statement mentions the year 2023 for the commencement of reductions, but the refuted statement changes this to 2024.",
+                "statement": "The reductions in Kentucky state-wide nitrogen oxide budgets were scheduled to commence in 2024, with the largest reductions planned for 2026."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for nitrogen oxide reduction, which is not mentioned in the text.",
+                "statement": "In 2023, PPL, LG&E, and KU received a federal grant specifically for nitrogen oxide reduction initiatives."
+            }
+        }
+    },
+    {
+        "id": "DUK_MDA_207",
+        "triplets": {
+            "supported": "A $397 million increase in proceeds from issuances of common stock in the current year partially offset the decrease in financing cash flows.",
+            "refuted": {
+                "rationale": "The refuted statement changes the increase amount from $397 million to $400 million, which is incorrect.",
+                "statement": "A $400 million increase in proceeds from issuances of common stock in the current year partially offset the decrease in financing cash flows."
+            },
+            "unverifiable": {
+                "rationale": "The unverifiable statement introduces a non-existent metric 'Scope 5 emissions' that supposedly affected financing decisions.",
+                "statement": "Duke Energy's financing decisions were influenced by new metrics related to Scope 5 emissions."
+            }
+        }
+    },
+    {
+        "id": "PPL_Business_102",
+        "triplets": {
+            "supported": "PPL's subsidiaries undertake testing, monitoring or remedial action in response to spills or other releases at various locations and negotiate with the EPA and state and local agencies regarding actions necessary to comply with applicable requirements.",
+            "refuted": {
+                "rationale": "The statement changes the expected impact from 'not expected to have a significant adverse impact' to 'expected to have a significant adverse impact,' which contradicts the original text.",
+                "statement": "Resolution of these environmental matters is expected to have a significant adverse impact on the operations of PPL, PPL Electric, LG&E, KU and RIE."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for environmental remediation, which is not mentioned in the text.",
+                "statement": "PPL has secured a federal grant specifically for environmental remediation efforts at its sites."
+            }
+        }
+    },
+    {
+        "id": "CMS_MDA_131",
+        "triplets": {
+            "supported": "In May 2024, the EPA finalized a rule regulating legacy CCR surface impoundments.",
+            "refuted": {
+                "rationale": "The statement incorrectly changes the month of the rule finalization from May to June.",
+                "statement": "In June 2024, the EPA finalized a rule regulating legacy CCR surface impoundments."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a fictional initiative to create a new CCR recycling program, which is not mentioned in the text.",
+                "statement": "Consumers is launching a new CCR recycling program in collaboration with the EPA."
+            }
+        }
+    },
+    {
+        "id": "PEG_MDA_37",
+        "triplets": {
+            "supported": "In April 2021, PSEG Power\u2019s Salem 1, Salem 2 and Hope Creek nuclear plants were awarded zero emission certificates (ZECs) for the three-year eligibility period starting June 2022 at the same approximate $10 per megawatt hour (MWh) received during the prior ZEC period through May 2025.",
+            "refuted": {
+                "rationale": "The statement incorrectly changes the year the ZECs were awarded from 2021 to 2022.",
+                "statement": "In April 2022, PSEG Power\u2019s Salem 1, Salem 2 and Hope Creek nuclear plants were awarded zero emission certificates (ZECs) for the three-year eligibility period starting June 2022 at the same approximate $10 per megawatt hour (MWh) received during the prior ZEC period through May 2025."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent partnership with the EPA, which is not mentioned in the text.",
+                "statement": "PSEG Power\u2019s Salem 1, Salem 2, and Hope Creek nuclear plants were awarded zero emission certificates (ZECs) as part of a new partnership with the EPA to enhance environmental compliance."
+            }
+        }
+    },
+    {
+        "id": "WEC_RiskFactors_43",
+        "triplets": {
+            "supported": "Our inability to manage these changes, an adverse determination by one of the applicable taxing jurisdictions, or additional interpretations, implementing regulations, amendments, or technical corrections by the Treasury Department, the IRS, or state income tax authorities, could significantly impact our financial results and cash flows.",
+            "refuted": {
+                "rationale": "The statement changes 'could significantly impact our financial results and cash flows' to 'will significantly impact our financial results and cash flows,' removing the conditional aspect.",
+                "statement": "Our inability to manage these changes, an adverse determination by one of the applicable taxing jurisdictions, or additional interpretations, implementing regulations, amendments, or technical corrections by the Treasury Department, the IRS, or state income tax authorities, will significantly impact our financial results and cash flows."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent collaboration with the Department of Energy to mitigate tax impacts, which is not mentioned in the text.",
+                "statement": "We are collaborating with the Department of Energy to mitigate potential impacts from changes in tax legislation."
+            }
+        }
+    },
+    {
+        "id": "WEC_Business_90",
+        "triplets": {
+            "supported": "WEC Energy Group has either sold or entered into agreements to sell substantially all PTCs generated by WECI in 2025.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the year as 2024 instead of 2025 for the sale of PTCs.",
+                "statement": "WEC Energy Group has either sold or entered into agreements to sell substantially all PTCs generated by WECI in 2024."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent strategic alliance with a major wind turbine manufacturer.",
+                "statement": "WECI has formed a strategic alliance with a major wind turbine manufacturer to enhance its wind energy output."
+            }
+        }
+    },
+    {
+        "id": "VLO_RiskFactors_17",
+        "triplets": {
+            "supported": "In recent years, a number of advocacy groups, both in the U.S. and internationally, have campaigned for government and private action to promote climate-related and other sustainability-related initiatives through activities including public pressure, investment, engagement, and voting practices.",
+            "refuted": {
+                "rationale": "The statement changes 'recent years' to 'recent months', altering the timeframe of the advocacy groups' activities.",
+                "statement": "In recent months, a number of advocacy groups, both in the U.S. and internationally, have campaigned for government and private action to promote climate-related and other sustainability-related initiatives through activities including public pressure, investment, engagement, and voting practices."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom fact about a specific federal grant for sustainability initiatives, which is not mentioned in the text.",
+                "statement": "Valero received a federal grant to support its sustainability initiatives in response to advocacy group campaigns."
+            }
+        }
+    },
+    {
+        "id": "EVRG_Business_25",
+        "triplets": {
+            "supported": "The Environmental Protection Agency (EPA), the Kansas Department of Health and Environment (KDHE) and the Missouri Department of Natural Resources (MDNR) regulate emissions under the Clean Air Act (CAA), water under the Clean Water Act and waste management under the Resource Conservation and Recovery Act.",
+            "refuted": {
+                "rationale": "The statement changes the regulatory body from the 'Missouri Department of Natural Resources' to the 'Missouri Environmental Protection Agency,' which is incorrect.",
+                "statement": "The Environmental Protection Agency (EPA), the Kansas Department of Health and Environment (KDHE) and the Missouri Environmental Protection Agency regulate emissions under the Clean Air Act (CAA), water under the Clean Water Act and waste management under the Resource Conservation and Recovery Act."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent compliance certification, 'Clean Energy Certification,' which is not mentioned in the text.",
+                "statement": "Evergy has achieved the Clean Energy Certification for its compliance with environmental regulations."
+            }
+        }
+    },
+    {
+        "id": "ED_Business_174",
+        "triplets": {
+            "supported": "In February 2026, the EPA issued a final rule which rescinded its 2009 Greenhouse Gas Endangerment Finding under Section 202(a)(1) of the Clean Air Act.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the rescission occurred in January 2026 instead of February 2026.",
+                "statement": "In January 2026, the EPA issued a final rule which rescinded its 2009 Greenhouse Gas Endangerment Finding under Section 202(a)(1) of the Clean Air Act."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric called 'Scope 5 emissions'.",
+                "statement": "The EPA's final rule included new guidelines for measuring 'Scope 5 emissions' from fossil fuel-fired power plants."
+            }
+        }
+    },
+    {
+        "id": "SRE_RiskFactors_322",
+        "triplets": {
+            "supported": "The changes in costs and preferences for lower carbon and renewable energy sources may impact the demand for, consumption of, and type of energy we transmit and distribute.",
+            "refuted": {
+                "rationale": "The original statement mentions that changes may impact demand, not that they will definitely impact demand.",
+                "statement": "The changes in costs and preferences for lower carbon and renewable energy sources will impact the demand for, consumption of, and type of energy we transmit and distribute."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom partnership with the EPA that is not mentioned in the text.",
+                "statement": "We have partnered with the EPA to address changes in costs and preferences for lower carbon and renewable energy sources."
+            }
+        }
+    },
+    {
+        "id": "BKR_Business_63",
+        "triplets": {
+            "supported": "Baker Hughes is focusing on their latest generation of gas turbines for energy efficiency and reduced carbon footprint, such as their LM9000TM and Nova LTTM products.",
+            "refuted": {
+                "rationale": "The statement changes the focus from 'focusing on' to 'has completed', implying a finished action rather than an ongoing focus.",
+                "statement": "Baker Hughes has completed the development of their latest generation of gas turbines for energy efficiency and reduced carbon footprint."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Scope 5 emissions', which is not mentioned in the text.",
+                "statement": "Baker Hughes is leading the industry in reducing Scope 5 emissions with their advanced gas turbines."
+            }
+        }
+    },
+    {
+        "id": "OXY_MDA_49",
+        "triplets": {
+            "supported": "In 2025, the Company invested $0.5 billion of development capital with a strategy of low risk, infill drilling opportunities and accelerated project delivery at its Horn Mountain, Constitution, and Lucius facilities.",
+            "refuted": {
+                "rationale": "The original text states that the Company invested $0.5 billion, not $0.6 billion.",
+                "statement": "The Company invested $0.6 billion of development capital in 2025."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any specific award for achieving the highest platform operating efficiencies.",
+                "statement": "The Company received an industry award for achieving the highest platform operating efficiencies in 2025."
+            }
+        }
+    },
+    {
+        "id": "AEP_Business_82",
+        "triplets": {
+            "supported": "The Vertically Integrated Utilities compete with self-generation and with distributors of other energy sources, such as natural gas, fuel oil, renewables and coal, within their service areas.",
+            "refuted": {
+                "rationale": "The statement changes the competitive position from 'currently maintain' to 'have lost,' which is a critical error.",
+                "statement": "With respect to competing generators and self-generation, the public utility subsidiaries of AEP have lost their competitive position."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'customer satisfaction index,' which is not supported by the text.",
+                "statement": "The Vertically Integrated Utilities have achieved a customer satisfaction index of 95% in 2025."
+            }
+        }
+    },
+    {
+        "id": "SO_RiskFactors_84",
+        "triplets": {
+            "supported": "The risk of global climate change is influencing customers' and stakeholders' sustainability goals and energy needs, potentially altering the type of assets constructed and methods for cost recovery.",
+            "refuted": {
+                "rationale": "The original text states that new technologies 'could' change the type of assets constructed, not that they 'will' change them.",
+                "statement": "New technologies such as distributed energy resources and microgrids will change the type of assets constructed and/or the methods for cost recovery."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any specific federal grant or partnership with the EPA.",
+                "statement": "The company has secured a federal grant to advance distributed generation storage technologies in partnership with the EPA."
+            }
+        }
+    },
+    {
+        "id": "NI_MDA_126",
+        "triplets": {
+            "supported": "NIPSCO has executed several PPAs to purchase 100% of the output from renewable generation facilities at a fixed price per MWh.",
+            "refuted": {
+                "rationale": "The statement changes the nature of the agreements from PPAs to BTAs, which is incorrect.",
+                "statement": "NIPSCO has executed several BTAs to purchase 100% of the output from renewable generation facilities at a fixed price per MWh."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent partnership with the EPA, which is not mentioned in the text.",
+                "statement": "NIPSCO has partnered with the EPA to enhance the environmental impact of its renewable generation facilities."
+            }
+        }
+    },
+    {
+        "id": "EIX_MDA_571",
+        "triplets": {
+            "supported": "The long-term debt balance is net of unamortized debt issuance costs.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the current portion of long-term debt as $50 million instead of $49 million.",
+                "statement": "Current portion of long-term debt was $50 million at December 31, 2025."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a fictional collaboration with the Department of Energy for VIE management.",
+                "statement": "SCE has a collaboration with the Department of Energy to manage VIEs more effectively."
+            }
+        }
+    },
+    {
+        "id": "FANG_RiskFactors_2",
+        "triplets": {
+            "supported": "Market conditions and particularly volatility in prices for oil and natural gas may adversely affect FANG's revenue, cash flows, profitability, growth, production and the present value of their estimated reserves.",
+            "refuted": {
+                "rationale": "The original statement mentions 'volatility in prices for oil and natural gas,' but the refuted statement changes 'volatility' to 'stability,' which alters the meaning.",
+                "statement": "Market conditions and particularly stability in prices for oil and natural gas may adversely affect FANG's revenue, cash flows, profitability, growth, production and the present value of their estimated reserves."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any specific federal grant related to climate change mitigation.",
+                "statement": "FANG has received a federal grant specifically for climate change mitigation efforts."
+            }
+        }
+    },
+    {
+        "id": "MPC_Business_3",
+        "triplets": {
+            "supported": "The Midstream segment gathers, transports, stores and distributes crude oil, refined products, including renewable diesel, and other hydrocarbon-based products principally for the Refining & Marketing segment.",
+            "refuted": {
+                "rationale": "The statement changes the principal segment served by Midstream from Refining & Marketing to Renewable Diesel.",
+                "statement": "The Midstream segment gathers, transports, stores and distributes crude oil, refined products, including renewable diesel, and other hydrocarbon-based products principally for the Renewable Diesel segment."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent award for excellence in midstream logistics.",
+                "statement": "MPC's Midstream segment recently received an award for excellence in midstream logistics from the National Energy Association."
+            }
+        }
+    },
+    {
+        "id": "PEG_RiskFactors_16",
+        "triplets": {
+            "supported": "The effects of climate change could result in increased maintenance and capital costs, increased regulatory oversight, and lower customer satisfaction.",
+            "refuted": {
+                "rationale": "The text states that a regulator's decision could have a 'material adverse effect,' not a 'positive effect.'",
+                "statement": "A regulator's decision not to permit timely and full recovery of costs could have a positive effect on our businesses."
+            },
+            "unverifiable": {
+                "rationale": "There is no mention of a new technology initiative to counteract climate change effects.",
+                "statement": "The company has launched a new technology initiative to counteract the effects of climate change on its operations."
+            }
+        }
+    },
+    {
+        "id": "CTRA_RiskFactors_14",
+        "triplets": {
+            "supported": "The occurrence of any event not covered or fully covered by insurance could have a material adverse effect on our financial position, results of operations and cash flows.",
+            "refuted": {
+                "rationale": "The statement changes 'material adverse effect' to 'no significant effect', which contradicts the text.",
+                "statement": "The occurrence of any event not covered or fully covered by insurance could have no significant effect on our financial position, results of operations and cash flows."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent insurance policy specifically for climate change-related events, which is not mentioned in the text.",
+                "statement": "CTRA has a specialized insurance policy that fully covers all climate change-related events."
+            }
+        }
+    },
+    {
+        "id": "D_RiskFactors_32",
+        "triplets": {
+            "supported": "The Companies expect that existing environmental laws and regulations may be revised and/or new laws may be adopted including regulation of GHG emissions which could have an impact on the Companies\u2019 business.",
+            "refuted": {
+                "rationale": "The statement changes 'may be revised' to 'will not be revised', which contradicts the text.",
+                "statement": "The Companies expect that existing environmental laws and regulations will not be revised and/or new laws will not be adopted."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Scope 5 emissions', which is not mentioned in the text.",
+                "statement": "The Companies are preparing for potential regulations on Scope 5 emissions."
+            }
+        }
+    },
+    {
+        "id": "PSX_MDA_19",
+        "triplets": {
+            "supported": "Net income attributable to Phillips 66 for the year ended December 31, 2025, was $4,403 million, compared with $2,117 million for the year ended December 31, 2024.",
+            "refuted": {
+                "rationale": "The statement changes the net income for 2025 from $4,403 million to $4,500 million, which is incorrect according to the text.",
+                "statement": "Net income attributable to Phillips 66 for the year ended December 31, 2025, was $4,500 million, compared with $2,117 million for the year ended December 31, 2024."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom fact about a strategic alliance with a non-existent entity, which is not mentioned in the text.",
+                "statement": "In 2025, Phillips 66 formed a strategic alliance with the Global Renewable Energy Council to enhance its renewable fuels segment."
+            }
+        }
+    },
+    {
+        "id": "D_MDA_28",
+        "triplets": {
+            "supported": "Dominion Energy\u2019s AROs include $828 million for future CCR remediation at retired generating stations and other inactive or previously closed surface impoundments.",
+            "refuted": {
+                "rationale": "The refuted statement changes the date of the EPA rule from May 2024 to May 2023, which is a subtle date discrepancy.",
+                "statement": "Dominion Energy\u2019s AROs also include $828 million for future CCR remediation in connection with the EPA\u2019s May 2023 rule."
+            },
+            "unverifiable": {
+                "rationale": "The unverifiable statement introduces a phantom fact about a partnership with a non-existent organization for nuclear decommissioning, which is not mentioned in the text.",
+                "statement": "Dominion Energy has partnered with the International Nuclear Decommissioning Association for future CCR remediation efforts."
+            }
+        }
+    },
+    {
+        "id": "ETR_MDA_3199",
+        "triplets": {
+            "supported": "In July 2024 the PUCT referred the proceeding to the State Office of Administrative Hearings and, also in July 2024, the ALJ with the State Office of Administrative Hearings adopted a procedural schedule, with a hearing on the merits scheduled to begin in October 2024.",
+            "refuted": {
+                "rationale": "The statement incorrectly changes the hearing date from October 2024 to November 2024.",
+                "statement": "In July 2024 the PUCT referred the proceeding to the State Office of Administrative Hearings and, also in July 2024, the ALJ with the State Office of Administrative Hearings adopted a procedural schedule, with a hearing on the merits scheduled to begin in November 2024."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a partnership with the EPA that is not mentioned in the text.",
+                "statement": "Entergy Texas announced a partnership with the EPA to ensure environmental compliance for the Legend Power Station and Lone Star Power Station."
+            }
+        }
+    },
+    {
+        "id": "DTE_MDA_66",
+        "triplets": {
+            "supported": "Depreciation and amortization expense had no change in 2025 and increased $6 million in 2024.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the increase in depreciation and amortization expense for 2024 as $5 million instead of $6 million.",
+                "statement": "Depreciation and amortization expense had no change in 2025 and increased $5 million in 2024."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent tax incentive program for renewable energy projects.",
+                "statement": "DTE Vantage benefited from a new tax incentive program for renewable energy projects in 2024."
+            }
+        }
+    },
+    {
+        "id": "SRE_Business_376",
+        "triplets": {
+            "supported": "The growth of third-party energy storage alternatives and other technologies also may increasingly compete with SDG&E\u2019s traditional transmission and distribution infrastructure in delivering electricity to consumers.",
+            "refuted": {
+                "rationale": "The original text does not specify a year for when third-party energy storage alternatives will compete with SDG&E.",
+                "statement": "By 2024, third-party energy storage alternatives will definitely compete with SDG&E\u2019s traditional transmission and distribution infrastructure."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any specific collaboration with international energy firms.",
+                "statement": "SDG&E is collaborating with international energy firms to enhance its energy storage capabilities."
+            }
+        }
+    },
+    {
+        "id": "EVRG_Business_27",
+        "triplets": {
+            "supported": "The Evergy Companies have taken, and will continue to take, proactive measures to mitigate the impact of climate change on its businesses.",
+            "refuted": {
+                "rationale": "The statement changes 'will continue to take' to 'have completed,' implying no future actions, which is incorrect.",
+                "statement": "The Evergy Companies have taken, and have completed, proactive measures to mitigate the impact of climate change on its businesses."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent partnership with the EPA for climate change mitigation, which is not mentioned in the text.",
+                "statement": "The Evergy Companies have partnered with the EPA to implement climate change mitigation strategies."
+            }
+        }
+    },
+    {
+        "id": "EIX_RiskFactors_46",
+        "triplets": {
+            "supported": "The generation, transmission and distribution of electricity are dangerous and involve inherent risks of damage to private property and injury to SCE's workforce and the general public.",
+            "refuted": {
+                "rationale": "The statement changes the condition from 'involve inherent risks' to 'do not involve any risks,' which contradicts the text.",
+                "statement": "The generation, transmission and distribution of electricity do not involve any risks of damage to private property and injury to SCE's workforce and the general public."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent collaboration with a safety organization that is not mentioned in the text.",
+                "statement": "SCE has initiated a collaboration with the National Safety Council to enhance safety protocols for electricity generation and distribution."
+            }
+        }
+    },
+    {
+        "id": "DTE_Business_16",
+        "triplets": {
+            "supported": "The Monroe generating plant provided 36% of DTE Electric\u2019s total 2025 power plant generation.",
+            "refuted": {
+                "rationale": "The original text states the Monroe plant provided 36% of total generation, not 35%.",
+                "statement": "The Monroe generating plant provided 35% of DTE Electric\u2019s total 2025 power plant generation."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any partnership with the EPA.",
+                "statement": "DTE Electric has partnered with the EPA to enhance its renewable energy portfolio."
+            }
+        }
+    },
+    {
+        "id": "SRE_Business_466",
+        "triplets": {
+            "supported": "Success in developing each project depends on factors such as financial condition, project assessment, and the ability to reach a final investment decision.",
+            "refuted": {
+                "rationale": "The statement incorrectly claims that success depends solely on financial condition.",
+                "statement": "Success in developing each project depends solely on our financial condition."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent requirement for a 'Green Certification' for all projects.",
+                "statement": "All energy infrastructure projects require a 'Green Certification' to proceed, ensuring compliance with environmental standards."
+            }
+        }
+    },
+    {
+        "id": "ETR_MDA_1770",
+        "triplets": {
+            "supported": "In May 2023, Entergy Mississippi selected the W Delta Solar facility, to be located in Bolivar County, Mississippi, out of the 2022 Entergy Mississippi fall renewable RFP.",
+            "refuted": {
+                "rationale": "The original text states that the W Delta Solar facility is expected to achieve commercial operation by the end of 2027, not 2028.",
+                "statement": "The W Delta Solar facility is expected to achieve commercial operation by the end of 2028."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any partnership with the EPA or any federal grant related to the W Delta Solar facility.",
+                "statement": "Entergy Mississippi received a federal grant in partnership with the EPA for the development of the W Delta Solar facility."
+            }
+        }
+    },
+    {
+        "id": "DUK_MDA_163",
+        "triplets": {
+            "supported": "Duke Energy does not expect to be a significant federal cash taxpayer until around 2030 due to its existing tax attributes and projected tax credits relating to the IRA.",
+            "refuted": {
+                "rationale": "The statement changes the expected year from 2030 to 2028, which is a subtle but critical error.",
+                "statement": "Duke Energy does not expect to be a significant federal cash taxpayer until around 2028 due to its existing tax attributes and projected tax credits relating to the IRA."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom partnership with the EPA, which is not mentioned in the text.",
+                "statement": "Duke Energy has partnered with the EPA to enhance the monetization of PTCs in the transferability markets established by the IRA."
+            }
+        }
+    },
+    {
+        "id": "DUK_MDA_273",
+        "triplets": {
+            "supported": "Currently, the Duke Energy Registrants do not purchase carbon credits or offsets for use in connection with the Company's net-zero CO2 emissions goals.",
+            "refuted": {
+                "rationale": "The statement changes 'do not purchase' to 'actively purchase,' which contradicts the current situation described.",
+                "statement": "Currently, the Duke Energy Registrants actively purchase carbon credits or offsets for use in connection with the Company's net-zero CO2 emissions goals."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a fictional federal grant for carbon offset purchases, which is not mentioned in the text.",
+                "statement": "Duke Energy has received a federal grant to purchase carbon credits or offsets for its net-zero CO2 emissions goals."
+            }
+        }
+    },
+    {
+        "id": "D_RiskFactors_34",
+        "triplets": {
+            "supported": "Compliance costs cannot be estimated with certainty due to the inability to predict the requirements and timing of implementation of any new environmental rules or regulations.",
+            "refuted": {
+                "rationale": "The statement changes 'cannot be estimated with certainty' to 'can be estimated with certainty', which contradicts the text.",
+                "statement": "Compliance costs can be estimated with certainty despite the inability to predict the requirements and timing of implementation of any new environmental rules or regulations."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent industry standard for estimating compliance costs, which is not mentioned in the text.",
+                "statement": "The Companies adhere to an industry standard for estimating future compliance costs with precision."
+            }
+        }
+    },
+    {
+        "id": "PPL_MDA_43",
+        "triplets": {
+            "supported": "On October 28, 2025, the KPSC issued an order approving much of LG&E's and KU's July 2025 stipulation, with certain modifications.",
+            "refuted": {
+                "rationale": "The statement changes the date of the KPSC order from October 28, 2025, to October 28, 2026.",
+                "statement": "On October 28, 2026, the KPSC issued an order approving much of LG&E's and KU's July 2025 stipulation, with certain modifications."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Scope 5 emissions' related to the Ghent Unit CR.",
+                "statement": "The order authorized inclusion of relevant costs of the Ghent Unit CR in KU's existing environmental cost recovery rate mechanism to address Scope 5 emissions."
+            }
+        }
+    },
+    {
+        "id": "SO_RiskFactors_106",
+        "triplets": {
+            "supported": "Partnership and joint ownership agreements may provide partners or co-owners with certain decision-making authority in connection with projects under construction.",
+            "refuted": {
+                "rationale": "The text specifies that Southern Power participates in partnership agreements with respect to a majority of its renewable energy projects, not all.",
+                "statement": "Southern Power participates in partnership agreements with respect to all of its renewable energy projects."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any specific metric like 'Scope 5 emissions' or any related initiative.",
+                "statement": "Southern Company has initiated a new program to measure and reduce Scope 5 emissions across its projects."
+            }
+        }
+    },
+    {
+        "id": "D_Business_203",
+        "triplets": {
+            "supported": "Dominion Energy aims to make its system more responsive to customers' desire to manage energy consumption efficiently and transform its grid to be more adaptive to renewable generation resources and battery technologies.",
+            "refuted": {
+                "rationale": "The original statement mentions 'transforming its grid to be more adaptive,' which implies an ongoing process rather than completion.",
+                "statement": "Dominion Energy has completed transforming its grid to be more adaptive to renewable generation resources and battery technologies."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent partnership with the EPA, which is not mentioned in the text.",
+                "statement": "Dominion Energy has partnered with the EPA to enhance its grid's adaptability to renewable resources."
+            }
+        }
+    },
+    {
+        "id": "FE_RiskFactors_117",
+        "triplets": {
+            "supported": "Advances in and widespread adoption of distributed generation and regulatory policies may make our facilities significantly less competitive and adversely affect our results of operations.",
+            "refuted": {
+                "rationale": "The statement incorrectly claims that newer generation technologies currently have lower unit costs than traditional methods, which is not supported by the text.",
+                "statement": "Newer generation technologies such as fuel cells, microturbines, windmills and photovoltaic solar cells currently have lower unit costs than traditional large, central generation facilities."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for distributed generation technologies, which is not mentioned in the text.",
+                "statement": "We have received a federal grant specifically for the development of distributed generation technologies."
+            }
+        }
+    },
+    {
+        "id": "CNP_RiskFactors_158",
+        "triplets": {
+            "supported": "CenterPoint Energy may elect to modify or update its energy transition goals if underlying assumptions require updating.",
+            "refuted": {
+                "rationale": "The text mentions the possibility of modifying goals but does not state that CenterPoint Energy will definitely achieve them.",
+                "statement": "CenterPoint Energy will definitely achieve its energy transition goals as planned."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any 'Scope 5 emissions' metric.",
+                "statement": "CenterPoint Energy is leading the industry in reducing Scope 5 emissions."
+            }
+        }
+    },
+    {
+        "id": "XOM_RiskFactors_2",
+        "triplets": {
+            "supported": "A material decline in oil or natural gas prices could have a material adverse effect on the Company\u2019s operations, results, financial condition, and proved reserves, especially in the Upstream segment.",
+            "refuted": {
+                "rationale": "The statement changes the segment affected by a decline in prices from 'Upstream' to 'Downstream'.",
+                "statement": "A material decline in oil or natural gas prices could have a material adverse effect on the Company\u2019s operations, results, financial condition, and proved reserves, especially in the Downstream segment."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for carbon capture and storage.",
+                "statement": "ExxonMobil received a federal grant to support its carbon capture and storage initiatives."
+            }
+        }
+    },
+    {
+        "id": "PCG_Business_36",
+        "triplets": {
+            "supported": "The CPUC is responsible for approving funding and administration of state-mandated public purpose programs such as energy efficiency and other customer programs.",
+            "refuted": {
+                "rationale": "The statement incorrectly claims that the CPUC is responsible for federal programs, which is not supported by the text.",
+                "statement": "The CPUC is responsible for approving funding and administration of federal public purpose programs such as energy efficiency and other customer programs."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Scope 5 emissions,' which is not mentioned in the text.",
+                "statement": "The CPUC is also tasked with monitoring Scope 5 emissions as part of its regulatory guidelines."
+            }
+        }
+    },
+    {
+        "id": "EOG_Business_82",
+        "triplets": {
+            "supported": "The Paris Agreement calls for nations to undertake efforts with respect to global temperatures and GHG emissions.",
+            "refuted": {
+                "rationale": "The statement incorrectly claims the Paris Agreement was adopted in 2016 instead of 2015.",
+                "statement": "The Paris Agreement was adopted in 2016 and calls for nations to undertake efforts with respect to global temperatures and GHG emissions."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric called 'Scope 5 emissions' related to the Paris Agreement.",
+                "statement": "The Paris Agreement includes provisions for reducing 'Scope 5 emissions' by 2030."
+            }
+        }
+    },
+    {
+        "id": "OKE_RiskFactors_30",
+        "triplets": {
+            "supported": "Increased energy use due to weather changes may require us to invest in more pipelines and other infrastructure to serve increased demand.",
+            "refuted": {
+                "rationale": "The statement changes 'increased energy use' to 'decreased energy use', which alters the context.",
+                "statement": "Decreased energy use due to weather changes may require us to invest in more pipelines and other infrastructure to serve increased demand."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a partnership with the EPA to manage weather-related impacts, which is not mentioned in the text.",
+                "statement": "ONEOK has partnered with the EPA to manage weather-related impacts on energy use."
+            }
+        }
+    },
+    {
+        "id": "NRG_MDA_50",
+        "triplets": {
+            "supported": "Economic gross margin should be viewed as a supplement to and not a substitute for the Company's presentation of gross margin, which is the most directly comparable GAAP measure.",
+            "refuted": {
+                "rationale": "The original statement does not mention that economic gross margin includes mark-to-market gains or losses.",
+                "statement": "Economic gross margin includes mark-to-market gains or losses on economic hedging activities."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric, 'Scope 5 emissions,' which is not mentioned in the text.",
+                "statement": "NRG's economic gross margin calculation now includes adjustments for Scope 5 emissions."
+            }
+        }
+    },
+    {
+        "id": "SO_RiskFactors_74",
+        "triplets": {
+            "supported": "The pace of retirement of coal-fired generating facilities can affect the demand for coal.",
+            "refuted": {
+                "rationale": "The original text states that fuel oil provides only a small portion of annual generation, but the refuted statement incorrectly states it as a major portion.",
+                "statement": "Fuel oil directly provides a major portion of the Southern Company system's annual generation."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any partnership with the EPA regarding renewable resources.",
+                "statement": "Southern Company has partnered with the EPA to enhance its renewable resource capacity."
+            }
+        }
+    },
+    {
+        "id": "EIX_Business_73",
+        "triplets": {
+            "supported": "Enabling California's clean energy economy goals will require sustained investments in grid modernization, renewable integration projects, energy efficiency programs, energy storage options, and electric vehicle infrastructure.",
+            "refuted": {
+                "rationale": "The statement changes the effect of customer-owned generation from increasing to decreasing utility rates, which contradicts the original text.",
+                "statement": "Customer-owned generation and load departures to CCAs or Electric Service Providers each reduce the amount of electricity that customers purchase from utilities and have the effect of decreasing utility rates."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Scope 5 emissions,' which is not mentioned in the text.",
+                "statement": "SCE is implementing new strategies to reduce Scope 5 emissions as part of its commitment to California's clean energy goals."
+            }
+        }
+    },
+    {
+        "id": "EXC_RiskFactors_54",
+        "triplets": {
+            "supported": "The Registrants\u2019 businesses are capital intensive, and their assets could require significant expenditures to maintain, are subject to operational failure and could be impacted by disruptions or cost increases in the supply chain.",
+            "refuted": {
+                "rationale": "The original statement mentions 'significant increases in relevant tariffs,' but the refuted statement changes it to 'decreases in relevant tariffs.'",
+                "statement": "The Registrants\u2019 businesses are capital intensive, and their assets could require significant expenditures to maintain, are subject to operational failure and could be impacted by disruptions or cost increases in the supply chain, including shortages in labor, materials or parts, or significant decreases in relevant tariffs which could result in potential liability."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for infrastructure maintenance, which is not mentioned in the text.",
+                "statement": "The Registrants have received a federal grant to support infrastructure maintenance and mitigate supply chain disruptions."
+            }
+        }
+    },
+    {
+        "id": "ATO_RiskFactors_40",
+        "triplets": {
+            "supported": "Such laws or regulations could adversely affect our business, results of operations, and cash flows if the costs we incur to comply with these laws or regulations are not recovered or if the cost of providing natural gas services becomes prohibitively expensive.",
+            "refuted": {
+                "rationale": "The statement changes the impact from 'could adversely affect' to 'will adversely affect,' which is a subtle but critical change in certainty.",
+                "statement": "Such laws or regulations will adversely affect our business, results of operations, and cash flows if the costs we incur to comply with these laws or regulations are not recovered or if the cost of providing natural gas services becomes prohibitively expensive."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Scope 5 emissions,' which is not mentioned in the text.",
+                "statement": "The company is actively working to reduce Scope 5 emissions as part of its climate change strategy."
+            }
+        }
+    },
+    {
+        "id": "DUK_RiskFactors_90",
+        "triplets": {
+            "supported": "The cost of storm restoration efforts may not be fully recoverable or recoverable on a timely basis through the regulatory process and may impact the results of operations, financial position or cash flows of the Duke Energy Registrants.",
+            "refuted": {
+                "rationale": "The statement changes 'may not be fully recoverable' to 'will be fully recoverable', which contradicts the uncertainty expressed in the original text.",
+                "statement": "The cost of storm restoration efforts will be fully recoverable on a timely basis through the regulatory process and will not impact the results of operations, financial position or cash flows of the Duke Energy Registrants."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom federal grant for storm restoration, which is not mentioned in the text.",
+                "statement": "Duke Energy has received a federal grant specifically for storm restoration efforts to ensure timely recovery of costs."
+            }
+        }
+    },
+    {
+        "id": "DUK_MDA_7",
+        "triplets": {
+            "supported": "2024 represents the 98th consecutive year Duke Energy paid a cash dividend on its common stock.",
+            "refuted": {
+                "rationale": "The original text states that 2024 is the 98th consecutive year, not the 100th.",
+                "statement": "2024 represents the 100th consecutive year Duke Energy paid a cash dividend on its common stock."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any partnership with a renewable energy organization.",
+                "statement": "Duke Energy has partnered with a leading renewable energy organization to enhance its sustainability initiatives."
+            }
+        }
+    },
+    {
+        "id": "AEP_RiskFactors_122",
+        "triplets": {
+            "supported": "Regulation of GHG emissions could materially increase costs to AEP and its customers or cause some electric generating units to be uneconomical to operate or maintain.",
+            "refuted": {
+                "rationale": "The statement changes 'materially increase costs' to 'materially decrease costs,' which contradicts the original text.",
+                "statement": "Regulation of GHG emissions could materially decrease costs to AEP and its customers or cause some electric generating units to be economical to operate or maintain."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent collaboration with a renewable energy firm, which is not mentioned in the text.",
+                "statement": "AEP is collaborating with a leading renewable energy firm to offset the costs of GHG emission regulations."
+            }
+        }
+    },
+    {
+        "id": "AEE_MDA_101",
+        "triplets": {
+            "supported": "The absence of depreciation expense associated with the retirement of Ameren Missouri\u2019s Rush Island Energy Center in 2024 decreased expenses by $27 million.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the decrease in expenses as $37 million instead of the correct $27 million.",
+                "statement": "The absence of depreciation expense associated with the retirement of Ameren Missouri\u2019s Rush Island Energy Center in 2024 decreased expenses by $37 million."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom partnership with the EPA, which is not mentioned in the text.",
+                "statement": "Ameren Missouri partnered with the EPA to manage the retirement of the Rush Island Energy Center, leading to a decrease in expenses."
+            }
+        }
+    },
+    {
+        "id": "ENPH_RiskFactors_192",
+        "triplets": {
+            "supported": "During 2025, Enphase Energy continued to expand operations into new European countries, although revenue from Europe declined year over year.",
+            "refuted": {
+                "rationale": "The statement incorrectly changes the percentage of net revenues from Europe in 2024 from 23% to 25%.",
+                "statement": "Approximately 14% of Enphase Energy's net revenues were derived from Europe for the year ended December 31, 2025, as compared to approximately 25% for the year ended December 31, 2024."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Global Sustainability Index' ranking.",
+                "statement": "Enphase Energy was ranked in the top 10 of the Global Sustainability Index due to its European expansion efforts."
+            }
+        }
+    },
+    {
+        "id": "FANG_RiskFactors_27",
+        "triplets": {
+            "supported": "Any of these developments may reduce the demand for products manufactured with (or powered by) hydrocarbons and the demand for, and in turn the prices of, the oil and natural gas that FANG produces and sells, which would likely have a material adverse impact.",
+            "refuted": {
+                "rationale": "The original statement uses 'may' indicating possibility, not certainty.",
+                "statement": "These developments will reduce the demand for products manufactured with (or powered by) hydrocarbons and the demand for, and in turn the prices of, the oil and natural gas that FANG produces and sells."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any partnership with the EPA.",
+                "statement": "FANG has partnered with the EPA to develop strategies to mitigate the impact of reduced demand for hydrocarbons."
+            }
+        }
+    },
+    {
+        "id": "CMS_MDA_30",
+        "triplets": {
+            "supported": "Consumers plans to spend $8.8 billion on electric generation, which includes solar, wind, and natural gas-fueled generation, as well as energy storage.",
+            "refuted": {
+                "rationale": "The refuted statement changes the amount planned for electric generation from $8.8 billion to $8.5 billion.",
+                "statement": "Consumers plans to spend $8.5 billion on electric generation, which includes solar, wind, and natural gas-fueled generation, as well as energy storage."
+            },
+            "unverifiable": {
+                "rationale": "The unverifiable statement introduces a non-existent partnership with the EPA to enhance clean energy transformation.",
+                "statement": "Consumers has partnered with the EPA to enhance its clean energy transformation through strategic investments."
+            }
+        }
+    },
+    {
+        "id": "CNP_RiskFactors_135",
+        "triplets": {
+            "supported": "Adverse publicity related to environmental practices can result in negative opinions and harm the company's reputation.",
+            "refuted": {
+                "rationale": "The refuted statement changes 'negative opinions' to 'positive opinions,' which contradicts the context of adverse publicity.",
+                "statement": "Adverse publicity related to environmental practices can result in positive opinions and harm the company's reputation."
+            },
+            "unverifiable": {
+                "rationale": "The unverifiable statement introduces a non-existent initiative to plant one million trees, which is not mentioned in the text.",
+                "statement": "The company has launched an initiative to plant one million trees to improve its environmental image."
+            }
+        }
+    },
+    {
+        "id": "EOG_RiskFactors_126",
+        "triplets": {
+            "supported": "The pursuit and achievement of GHG emissions reduction initiatives may increase costs and impact the ability to execute the business strategy.",
+            "refuted": {
+                "rationale": "The statement changes 'may increase costs' to 'will increase costs,' implying certainty not present in the original text.",
+                "statement": "The pursuit and achievement of GHG emissions reduction initiatives will increase costs and impact the ability to execute the business strategy."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom partnership with the EPA, which is not mentioned in the text.",
+                "statement": "EOG has partnered with the EPA to ensure compliance with evolving emissions regulations, impacting its business strategy."
+            }
+        }
+    },
+    {
+        "id": "XOM_Business_0",
+        "triplets": {
+            "supported": "Exxon Mobil Corporation was incorporated in the State of New Jersey in 1882.",
+            "refuted": {
+                "rationale": "The original statement mentions '1882' as the year of incorporation, but the refuted statement changes this to '1885', altering the historical fact.",
+                "statement": "Exxon Mobil Corporation was incorporated in the State of New Jersey in 1885."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for carbon capture, which is not mentioned in the text.",
+                "statement": "ExxonMobil received a federal grant for carbon capture and storage initiatives."
+            }
+        }
+    },
+    {
+        "id": "NI_MDA_91",
+        "triplets": {
+            "supported": "NIPSCO has executed several PPAs to purchase 100% of the output from renewable generation facilities at a fixed price per MWh.",
+            "refuted": {
+                "rationale": "The statement changes the expected service year of the Templeton project from 2027 to 2026, which is incorrect.",
+                "statement": "We expect the Templeton project, a wind BTA project with a nameplate capacity of W, to be placed in service in 2026."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom fact about a collaboration with a non-existent international renewable energy consortium, which is not mentioned in the text.",
+                "statement": "NIPSCO is collaborating with an international renewable energy consortium to enhance its project efficiency."
+            }
+        }
+    },
+    {
+        "id": "CNP_RiskFactors_139",
+        "triplets": {
+            "supported": "Environmental laws and regulations applicable to our operations are complex and subject to continued uncertainty, and we are subject to risks from changing or conflicting interpretations of existing laws, modifications to existing laws, new laws, and new or modified permit terms.",
+            "refuted": {
+                "rationale": "The statement changes 'continued uncertainty' to 'absolute certainty', which is incorrect.",
+                "statement": "Environmental laws and regulations applicable to our operations are complex and subject to absolute certainty, and we are subject to risks from changing or conflicting interpretations of existing laws, modifications to existing laws, new laws, and new or modified permit terms."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent metric 'Scope 5 emissions'.",
+                "statement": "We are actively working to reduce our Scope 5 emissions as part of our environmental compliance strategy."
+            }
+        }
+    },
+    {
+        "id": "SO_MDA_96",
+        "triplets": {
+            "supported": "Income taxes increased $36 million, or 3.6%, in 2025 as compared to 2024.",
+            "refuted": {
+                "rationale": "The statement changes the increase in income taxes from $36 million to $35 million, which is incorrect.",
+                "statement": "Income taxes increased $35 million, or 3.6%, in 2025 as compared to 2024."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant that supposedly contributed to the increase in income taxes.",
+                "statement": "Income taxes increased due to a $10 million federal grant for renewable energy projects."
+            }
+        }
+    },
+    {
+        "id": "ED_Business_218",
+        "triplets": {
+            "supported": "Although the Utilities are not a responsible party under the Climate Change Superfund Act's definition, they may be subject to other requirements under the Act.",
+            "refuted": {
+                "rationale": "The refuted statement changes the liability percentage for Curcio Scrap Metal from 100.0% to 90.0%, which is incorrect.",
+                "statement": "Curcio Scrap Metal in Saddle Brook, NJ has a liability of 90.0% under the EPA."
+            },
+            "unverifiable": {
+                "rationale": "The unverifiable statement introduces a phantom fact about a specific federal grant for compliance, which is not mentioned in the text.",
+                "statement": "The Utilities received a federal grant to assist with compliance under the Climate Change Superfund Act."
+            }
+        }
+    },
+    {
+        "id": "ED_Business_143",
+        "triplets": {
+            "supported": "The CLCPA established a climate action council that made recommendations for meeting the statewide greenhouse gas (GHG) emission reduction requirements through displacing fossil-fuel fired electricity with renewable electricity, transitioning heating and transportation to lower GHG impact fuels (including substantial electrification), implementing energy efficiency measures and providing 35 percent to 40 percent of the benefits of CLCPA-related investments to disadvantaged communities.",
+            "refuted": {
+                "rationale": "The statement incorrectly states the benefits to disadvantaged communities as 30 percent to 35 percent instead of the correct 35 percent to 40 percent.",
+                "statement": "The CLCPA established a climate action council that made recommendations for meeting the statewide greenhouse gas (GHG) emission reduction requirements through displacing fossil-fuel fired electricity with renewable electricity, transitioning heating and transportation to lower GHG impact fuels (including substantial electrification), implementing energy efficiency measures and providing 30 percent to 35 percent of the benefits of CLCPA-related investments to disadvantaged communities."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent federal grant for renewable energy projects, which is not mentioned in the text.",
+                "statement": "The CLCPA secured a federal grant to support renewable energy projects across New York State."
+            }
+        }
+    },
+    {
+        "id": "WMB_Business_150",
+        "triplets": {
+            "supported": "As of February 1, 2025, Williams had 5,829 full-time employees located throughout the United States.",
+            "refuted": {
+                "rationale": "The statement changes the number of employees from 5,829 to 5,900, which is a critical error.",
+                "statement": "As of February 1, 2025, Williams had 5,900 full-time employees located throughout the United States."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent award for employee diversity, which is not mentioned in the text.",
+                "statement": "Williams received an award for outstanding employee diversity in 2025."
+            }
+        }
+    },
+    {
+        "id": "CNP_MDA_173",
+        "triplets": {
+            "supported": "Based on the net change in invested capital since its last TCOS proceeding of approximately $212 million for the period of July 1, 2025 through December 31, 2025, along with the inclusion of regulatory assets of approximately $10 million comprising certain system restoration operations and maintenance expenses and carrying costs associated with the May 2024 Storm Events and Hurricane Beryl.",
+            "refuted": {
+                "rationale": "The original text states that the Tax Act Rider Calculation was filed on August 1, 2024, not August 15, 2024.",
+                "statement": "The first Tax Act Rider Calculation was filed on August 15, 2024 pursuant to Docket No. OS-23-00015513."
+            },
+            "unverifiable": {
+                "rationale": "The text does not mention any collaboration with the Railroad Commission on renewable energy initiatives.",
+                "statement": "CenterPoint Energy is collaborating with the Railroad Commission on new renewable energy initiatives as part of its strategic plan."
+            }
+        }
+    },
+    {
+        "id": "CMS_Business_37",
+        "triplets": {
+            "supported": "Consumers' gas utility operations generated operating revenue of $2.5 billion in 2025.",
+            "refuted": {
+                "rationale": "The statement changes the operating revenue from $2.5 billion to $2.6 billion.",
+                "statement": "Consumers' gas utility operations generated operating revenue of $2.6 billion in 2025."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent incentive program for electric vehicle infrastructure.",
+                "statement": "Consumers launched a new incentive program in 2025 to support electric vehicle infrastructure development."
+            }
+        }
+    },
+    {
+        "id": "VLO_RiskFactors_19",
+        "triplets": {
+            "supported": "If these or similar efforts are continued or increased, it could negatively impact our operating costs and capital allocation decisions, as well as our ability to access capital markets, obtain new investment or financing, or to adequately insure our business and operations.",
+            "refuted": {
+                "rationale": "The statement changes 'could negatively impact' to 'will negatively impact', which changes the potential impact to a certainty.",
+                "statement": "If these or similar efforts are continued or increased, it will negatively impact our operating costs and capital allocation decisions, as well as our ability to access capital markets, obtain new investment or financing, or to adequately insure our business and operations."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a non-existent collaboration with international banks to mitigate risks, which is not mentioned in the text.",
+                "statement": "Valero has collaborated with international banks to mitigate risks associated with reduced lending to fossil fuel companies."
+            }
+        }
+    },
+    {
+        "id": "FE_RiskFactors_133",
+        "triplets": {
+            "supported": "If FirstEnergy\u2019s practices do not meet evolving investor or other stakeholder expectations and standards, then the reputations of FirstEnergy and its subsidiaries, including ours, or their attractiveness as an investment, or status as a business partner, acquiror, service provider or employer could be negatively impacted.",
+            "refuted": {
+                "rationale": "The statement changes the potential negative impact on reputation to a certainty.",
+                "statement": "If FirstEnergy\u2019s practices do not meet evolving investor or other stakeholder expectations and standards, then the reputations of FirstEnergy and its subsidiaries will be negatively impacted."
+            },
+            "unverifiable": {
+                "rationale": "The statement introduces a phantom partnership with the EPA which is not mentioned in the text.",
+                "statement": "FirstEnergy has partnered with the EPA to develop new standards for climate-related disclosures."
+            }
+        }
+    }
+]
