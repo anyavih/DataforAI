@@ -14,7 +14,7 @@ This repository contains the end-to-end pipeline for extracting, processing, and
 
 ##  Key Research Findings
 
-* **LLM Baseline**: In preliminary testing, state-of-the-art models like Gemini and Claude accurately labeled only $\approx60\%$ of "Golden Set" data when identifying factual truths vs. lies.
+* **LLM Baseline**: In preliminary testing, state-of-the-art models like Gemini and Claude accurately labeled only $\approx60$% of "Golden Set" data when identifying factual truths vs. lies.
 * **NLI Performance**: Our fine-tuned RoBERTa model achieved a **Macro-F1 score of 0.973**, proving highly effective at forensic analysis.
 * **Error Detection**: The model maintained 100% accuracy in detecting refuted claims involving subtle numerical or temporal manipulations (e.g., changing a 50% reduction goal to 35%).
 
