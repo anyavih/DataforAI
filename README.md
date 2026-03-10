@@ -4,7 +4,7 @@ This repository contains the end-to-end pipeline for extracting, processing, and
 
 ## Repository Structure
 
-* **`data_scrape.py`**: Automates retrieval of 10-K filings for 49 companies using the `edgar` and `pandas` libraries.It targets Item 1 (Business), Item 1A (Risk Factors), and Item 7 (MD&A).
+* **`data_scrape.py`**: Automates retrieval of 10-K filings for 49 companies using the `edgar` and `pandas` libraries. It targets Item 1 (Business), Item 1A (Risk Factors), and Item 7 (MD&A).
 * **`file_clean.py`**: Cleans raw text using Regex to fix PDF artifacts and `spaCy` for grammatical segmentation.
 * **`file_filter.py`**: Implements `run_climate_filter()`, using a 25+ keyword Regex pattern (e.g., "emissions", "RVO", "CCUS") to isolate high-fidelity climate evidence.
 * **`data_creator.py`**: Generates synthetic "Verification Triplets" (Supported, Refuted, and Unverifiable claims) using GPT-4o.
